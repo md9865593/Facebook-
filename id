@@ -1,0 +1,82 @@
+<div id="gl-outer-wrapper" class="gl-en cf">
+    <div id="gl-header">
+        <div id="gl-header-top">
+            <ul class="cf">
+                <li><a href="http://www.wolframalpha.com/?source=nav">WolframAlpha.com</a></li>
+                <li><a href="https://www.wolframcloud.com/?source=nav">WolframCloud.com</a></li>
+                <li><a href="https://www.wolfram.com/resources/?source=nav">All Sites &amp; Public Resources...</a></li>
+            </ul>
+        </div>
+        <div id="gl-header-bottom" class="cf">
+            <div id="gl-logo">
+                <a href="https://www.wolfram.com/?source=nav" class="cf">
+                    <img src="/common/images/gl-logo-spikey.en.png" width="48" height="50" alt="" id="gl-logo-spikey">
+                    <img src="/common/images/gl-logo-wolfram.en.png" width="160" height="22" alt="Wolfram" id="gl-logo-wolfram">
+                    <img src="/common/images/gl-logo-computation-meets-knowledge.en.png" width="160" height="7" alt="Computation Meets Knowledge" id="gl-logo-slogan">
+                </a>
+            </div>
+            <ul id="gl-menu" class="cf">
+
+                <li id="gl-menu-products" class="gl-menu-tab">
+                    <a href="https://www.wolfram.com/products/?source=nav">Products &amp; Services<i class="gl-icon gl-r6-c2"></i></a>
+                    <ul class="gl-submenu">
+                        <li class="gl-col-wrapper cf">
+                            <ul class="gl-col gl-col1 gl-hover">
+                                <li><a href="https://www.wolfram.com/wolfram-one/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c11"></i></span><span>Wolfram|One</span></a></li>
+                                <li><a href="https://www.wolfram.com/mathematica/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c2"></i></span><span>Mathematica</span></a></li>
+                                <li><a href="https://www.wolfram.com/wolfram-alpha-notebook-edition/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c12"></i></span><span>Wolfram|Alpha Notebook&nbsp;Edition</span></a></li>
+                                <li><a href="https://www.wolfram.com/finance-platform/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c5"></i></span><span>Finance Platform</span></a></li>
+                                <li><a href="https://www.wolfram.com/system-modeler/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c6"></i></span><span>System Modeler</span></a></li>
+                                <li><a href="https://www.wolfram.com/player/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c4"></i></span><span>Wolfram Player</span></a></li>
+                                <li><a href="https://www.wolfram.com/engine/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c4"></i></span><span>Wolfram Engine</span></a></li>
+                                <li><a href="https://www.wolfram.com/wolframscript/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c1"></i></span><span>WolframScript</span></a></li>
+                            </ul>
+                            <ul class="gl-col gl-col2">
+                                <li class="gl-hover gl-lines">
+                                    <ul>
+                                        <li><a href="https://www.wolfram.com/enterprise-private-cloud/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c12"></i></span><span>Enterprise Private Cloud</span></a></li>
+                                        <li><a href="https://www.wolfram.com/application-server/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c13"></i></span><span>Application Server</span></a></li>
+                                        <li><a href="https://www.wolfram.com/mathematica-enterprise-edition/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c13"></i></span><span>Enterprise Mathematica</span></a></li>
+                                        <li><a href="http://products.wolframalpha.com/appliance/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c14"></i></span><span>Wolfram|Alpha Appliance</span></a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r3-c7"></i></span><span>Enterprise Solutions</span></span>
+                                    <ul>
+                                        <li><a href="http://www.wolframsolutions.com/?source=nav">Corporate Consulting</a></li>
+                                        <li><a href="https://www.wolfram.com/technical-consulting/?source=nav">Technical Consulting</a></li>
+                                        <li><a href="https://products.wolframalpha.com/enterprise?source=nav">Wolfram|Alpha Business Solutions</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="gl-col gl-col3">
+                                <li class="gl-hover"><a href="https://resources.wolframcloud.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r3-c8"></i></span><span>Resource System</span></a>
+                                    <ul>
+                                        <li><a href="https://datarepository.wolframcloud.com/?source=nav">Data Repository</a></li>
+                                        <li><a href="https://resources.wolframcloud.com/NeuralNetRepository/?source=nav">Neural Net Repository</a></li>
+                                        <li><a href="https://resources.wolframcloud.com/FunctionRepository/?source=nav">Function Repository</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><a href="http://www.wolframalpha.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r1-c7"></i></span><span>Wolfram|Alpha</span></a>
+                                    <ul>
+                                        <li><a href="http://www.wolframalpha.com/pro/?source=nav">Wolfram|Alpha Pro</a></li>
+                                        <li><a href="http://www.wolframalpha.com/pro/problem-generator/?source=nav">Problem Generator</a></li>
+                                        <li><a href="http://products.wolframalpha.com/api/?source=nav">API</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><a href="https://datadrop.wolframcloud.com/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r2-c10"></i></span><span>Data Drop</span></a></li>
+                            </ul>
+                            <ul class="gl-col gl-col4">
+                                <li class="gl-hover"><a href="https://www.wolfram.com/education/?source=nav" class="gl-flex"><span><i class="gl-icon gl-r3-c2"></i></span><span>Products for Education</span></a></li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r1-c8"></i></span><span>Mobile Apps</span></span>
+                                    <ul>
+                                        <li><a href="https://www.wolfram.com/player-app/?source=nav">Wolfram Player</a></li>
+                                        <li><a href="https://www.wolfram.com/cloud-app/?source=nav" target="_blank">Wolfram Cloud App</a></li>
+                                        <li><a href="http://products.wolframalpha.com/mobile/?source=nav">Wolfram|Alpha for Mobile</a></li>
+                                        <li><a href="http://products.wolframalpha.com/mobile/?source=nav#wapowered">Wolfram|Alpha-Powered Apps</a></li>
+                                    </ul>
+                                </li>
+                                <li class="gl-hover"><span class="gl-flex"><span><i class="gl-icon gl-r1-c9"></i></span><span>Services</span></span>
+                                    <ul>
+                                        <li><a href="https://www.wolfram.com/technical-consulting/?source=nav">Paid Project Support</a></li>
+                                        <li><a href="https://www.wolfram.com/wolfram-u/?source=nav">Wolfram U</a></li>
+                                        <li><a href="https://education.wolfram.com/programs/?source=nav">Summer Programs</a></li>
